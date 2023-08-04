@@ -3,7 +3,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/bakurazz)
 [![Reddit](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pracegoverrr)
 ### I'm a beginner programmer, passionate about the area, looking for my first opportunity and these are my study projects.. 💻😄
-#### Contact me in: eduardolopesgeo@gmail.com
+#### Contact me at: eduardolopesgeo@gmail.com
 <!--
 **luizeduarddo/luizeduarddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
